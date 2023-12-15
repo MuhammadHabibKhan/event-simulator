@@ -40,3 +40,8 @@ pip install <insert_name>
 
 ### Gantt Chart
 ![chart](https://github.com/MuhammadHabibKhan/event-simulator/blob/main/gantt-chart-image.png)
+
+## Possible Improvements
+
+1) GUI for inputing characteristics of system
+2) Handling and discarding un-intended inputs for the software 

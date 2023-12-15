@@ -4,6 +4,8 @@
 
 Event Simulator for simulation of M/M/C | M/G/C | G/G/C systems with priority. This simulator can be used to predict the number of arrivals and the service time each person may take in a given system provided the characteristics of the interarrival and service distributions selected. The results are displayed using a dynamic table built using flask and a gantt chart built using plotly.
 
+Associated Course: BSCS-506 | Modelling & Simulation
+
 ### Input Parameters
 
 Following are the possible inputs that may be required

@@ -14,6 +14,7 @@ Following are the possible inputs that may be required
 2) Service Time Distribution
 3) IA Mean / IA Variance / IA Standard Deviation / (min, max for uniform dist)
 4) Service Time Mean / Variance / Standard Deviation / (min, max for uniform dist)
+5) Number of Servers (passed as argument to the simulate() function)
 
 ### Working
 
